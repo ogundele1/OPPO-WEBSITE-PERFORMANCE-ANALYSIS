@@ -45,18 +45,18 @@ OPPO’s management team wants to understand the different factors that contribu
 
 <p align="center">
 
-<img src="https://imgur.com/n1nGFi6.png" height="80%" width="80%" >
+<img src="https://imgur.com/n1nGFi6.png" height="100%" width="100%" >
 
 <p align="center">
 
-<img src="https://imgur.com/QhjXHy6.png" height="80%" width="80%" >
+<img src="https://imgur.com/QhjXHy6.png" height="100%" width="100%" >
 
 <p align="center">
 
-<img src="https://imgur.com/eaNSLN3.png" height="80%" width="80%" >
+<img src="https://imgur.com/eaNSLN3.png" height="100%" width="100%" >
 <p align="center">
 
-<img src="https://imgur.com/wlGlAHl.png" height="80%" width="80%" >
+<img src="https://imgur.com/wlGlAHl.png" height="100%" width="100%" >
 
 
 <h2>INSIGHTS</h2
